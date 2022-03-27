@@ -1,6 +1,14 @@
 # A challenger respository
 
-## online resources
+## mylearning
+- [The Callenger Sale](https://mylearningworld.siemens.com/web/en/app/knowledge-board/lex_auth_01291474829278412818)
+  - [**get**abstarct - The Challenger Sale](https://mylearningworld.siemens.com/app/toc/lex_auth_0131907036852633607298/overview)
+  - [**get**abstarct - The Challenger Customer](https://mylearningworld.siemens.com/app/toc/lex_auth_0131905583669821443087/overview)
+  - [Digital Enterprise Challenger Campaign Online Training - Part 1](https://mylearningworld.siemens.com/app/toc/lex_auth_0131905583669821443087/overview)
+  - [Digital Enterprise Challenger Campaign Online Training - Part 2](https://mylearningworld.siemens.com/app/toc/lex_auth_01323193642210918422/overview)
+
+
+## online articals
 - [Power challenger sales model](https://www.gartner.com/smarterwithgartner/power-challenger-sales-model)
 - [Challenger Sales Reps Take Control of the Customer Conversation](https://www.gartner.com/smarterwithgartner/challenger-sales-reps-take-control-of-the-customer-conversation)
 - [Successful Challenger Sales Approach is All About Timing](https://www.gartner.com/smarterwithgartner/successful-challenger-sales-approach-is-all-about-timing)
