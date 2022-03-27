@@ -18,6 +18,8 @@
 - [Empathy: The Most Over-Used Customer Service Skill](https://www.challengerinc.com/blog/empathy-the-most-over-used-customer-service-skill/)
 - [Aligning Challenger™ Skills to Your Sales Process](https://www.challengerinc.com/blog/aligning-challenger-skills-to-your-sales-process/)
 - [The Challenger Customer](https://www.getabstract.com/en/summary/the-challenger-customer/25381)
+- [Harvard Business Review]()
+  - [Traditional B2B Sales and Marketing Are Becoming Obsolete](https://hbr.org/2022/02/traditional-b2b-sales-and-marketing-are-becoming-obsolete) 
 
 ## illustrations
 - [from: The Illusion of Control](https://blogs.gartner.com/hank-barnes/2018/10/02/the-illusion-of-control/?_ga=2.49738030.923077809.1648340379-1681344039.1648340379)
@@ -32,6 +34,8 @@
 - [Challenger’s Six Pillars of Commercial Transformation](https://www.challengerinc.com/blog/commercial-transformation-for-predictable-growth/)
 <p> <img src="https://www.challengerinc.com/wp-content/uploads/2020/02/image.png"></p>
 
+- [Why B2B Sellers Need a Sense Making Sales Strategy](https://www.gartner.com/smarterwithgartner/b2b-sellers-need-sense-making-sales-strategy)
+<p> <img src="https://images-cdn.welcomesoftware.com/Zz1lN2UzZmJiMjVjNjMxMWVjOGZmNjYyOWRlZjA2MGNjNQ==?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOlsiZTdlM2ZiYjI1YzYzMTFlYzhmZjY2MjlkZWYwNjBjYzUiXSwiZXhwIjoxNjM5NzczMDc1fQ.71YU8U9I5AjozZGXJjRIlZ5RYOyJnXqBHOSJs94In8o"></p>
 
 
 
@@ -47,3 +51,4 @@
 - [The Challenger Sale Appendix - Hiring Guide.pdf](./articals/The%20Challenger%20Sale%20Appendix%20-%20Hiring%20Guide.pdf)
 - [The Challenger Sale Appendix - Sales Force Discussion Guide.pdf](.articals/The%20Challenger%20Sale%20Appendix%20-%20Sales%20Force%20Discussion%20Guide.pdf)
 - [HBR: Sensemaking for Sales](https://emtemp.gcom.cloud/ngw/globalassets/en/sales-service/documents/insights/sense_making_hbr_article.pdf)
+- [How Challenger Sales Organizations Make Sense of Sense Making](./articals/challenger_sense_making_whitepaper.pdf)
