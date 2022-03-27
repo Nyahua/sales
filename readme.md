@@ -6,8 +6,17 @@
 - [Successful Challenger Sales Approach is All About Timing](https://www.gartner.com/smarterwithgartner/successful-challenger-sales-approach-is-all-about-timing)
 - [What’s Your Plan for ‘The Close’?](https://dev-challengerv2.pantheonsite.io/blog/whats-your-plan-for-the-close/)
 - [The Challenger Sale model: How to lead the conversation](https://www.pipedrive.com/en/blog/challenger-sales-model)
-- [The Customer Service Revolution Podcast](https://www.youtube.com/watch?v=3wpbxf0CZug&ab_channel=dijuliusgroup) 
-
+- [How Do Challengers Negotiate?](https://www.challengerinc.com/blog/how-do-challengers-negotiate/)
 
 ## illustrations
-<p><img src="https://blogs.gartner.com/hank-barnes/files/2018/09/Long-Hard-Slog.png"></p>
+- [from: The Illusion of Control](https://blogs.gartner.com/hank-barnes/2018/10/02/the-illusion-of-control/?_ga=2.49738030.923077809.1648340379-1681344039.1648340379)
+<p> <img src="https://blogs.gartner.com/hank-barnes/files/2018/09/Long-Hard-Slog.png"></p>
+
+- [fChallenger Skills Part 3: Which Skills Are Most Important in 2021?](https://www.challengerinc.com/blog/challenger-skills-in-2021-part-3/)
+<p> <img src="https://www.challengerinc.com/wp-content/uploads/2021/02/image-5.png"></p>
+
+
+## Youtube
+- [the Challenger Sales](https://www.youtube.com/watch?v=f8fd1S4E-0s&ab_channel=ExecutiveSpeakersBureau%3ABookKeynoteSpeakers)
+- [“Challenger Sale” Mastery! (Step By Step Guide)](https://www.youtube.com/watch?v=e-pEmiTRhIQ&ab_channel=Salesman.org)
+- [The Customer Service Revolution Podcast](https://www.youtube.com/watch?v=3wpbxf0CZug&ab_channel=dijuliusgroup) 
