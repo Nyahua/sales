@@ -13,7 +13,7 @@
 <p> <img src="https://blogs.gartner.com/hank-barnes/files/2018/09/Long-Hard-Slog.png"></p>
 
 - [from: Challenger Skills Part 3: Which Skills Are Most Important in 2021?](https://www.challengerinc.com/blog/challenger-skills-in-2021-part-3/)
-<p> <img src="https://www.challengerinc.com/wp-content/uploads/2021/02/image-5.png"></p>
+<p> <img src="https://dev-challengerv2.pantheonsite.io/wp-content/uploads/2020/12/WP_ConstrutiveTension.png"></p>
 
 
 ## Youtube
@@ -23,7 +23,7 @@
 
 ## documents
 - [plan to close](./articals/CH20-WP-TEMPO-Plan-Nov-2020.pdf)
-- [The Challenger Sale Appendix - Coaching Guide](./articals/The Challenger Sale Appendix - Coaching Guide)
+- [The Challenger Sale Appendix - Coaching Guide]("./articals/The Challenger Sale Appendix - Coaching Guide.pdf")
 - [The Challenger Sale Appendix - Quick Self Assessment.pdf](./articals/The Challenger Sale Appendix - Quick Self Assessment.pdf)
 - [The Challenger Sale Appendix - Hiring Guide.pdf](./articals/The Challenger Sale Appendix - Hiring Guide.pdf)
 - [The Challenger Sale Appendix - Sales Force Discussion Guide.pdf](./articals/The Challenger Sale Appendix - Sales Force Discussion Guide.pdf)
