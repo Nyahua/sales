@@ -23,7 +23,7 @@
 
 ## documents
 - [plan to close](./articals/CH20-WP-TEMPO-Plan-Nov-2020.pdf)
-- [The Challenger Sale Appendix - Coaching Guide]("./articals/The Challenger Sale Appendix - Coaching Guide.pdf")
+- [The Challenger Sale Appendix - Coaching Guide](./articals/The%20Challenger%20Sale%20Appendix%20-%20Coaching%20Guide.pdf)
 - [The Challenger Sale Appendix - Quick Self Assessment.pdf](./articals/The Challenger Sale Appendix - Quick Self Assessment.pdf)
-- [The Challenger Sale Appendix - Hiring Guide.pdf](./articals/The Challenger Sale Appendix - Hiring Guide.pdf)
+- [The Challenger Sale Appendix - Hiring Guide.pdf](./articals/The%20Challenger%20Sale%20Appendix%20-%20Hiring%20Guide.pdf)
 - [The Challenger Sale Appendix - Sales Force Discussion Guide.pdf](./articals/The Challenger Sale Appendix - Sales Force Discussion Guide.pdf)
